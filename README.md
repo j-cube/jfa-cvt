@@ -1,5 +1,6 @@
 # jfa-cvt
 Jump Flood Algorithms for Centroidal Voronoi Tessellation
+
 Author: Bo Zhou, J CUbe Inc. <bo@j-cube.jp>
 
 ## Brief
