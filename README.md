@@ -2,7 +2,7 @@
 Jump Flood Algorithms for Centroidal Voronoi Tessellation
 
 > Author: Bo Zhou, J CUBE Inc. Tokyo, Japan
->         <bo@j-cube.jp>
+>         bo@j-cube.jp
 
 
 ## Brief
@@ -17,8 +17,8 @@ Here a couple of screenshot varying the n regions:
 
 ```n = 16```
 
-  https://github.com/j-cube/jfa-cvt/raw/master/img/16.png
+  ![n16](https://github.com/j-cube/jfa-cvt/raw/master/img/16.png)
 
 ```n = 64```
 
-  https://github.com/j-cube/jfa-cvt/raw/master/img/64.png
+  ![n64](https://github.com/j-cube/jfa-cvt/raw/master/img/64.png)
