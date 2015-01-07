@@ -1,7 +1,9 @@
 # jfa-cvt
 Jump Flood Algorithms for Centroidal Voronoi Tessellation
 
-Author: Bo Zhou, J CUBE Inc. Tokyo, Japan - <bo@j-cube.jp>
+> Author: Bo Zhou, J CUBE Inc. Tokyo, Japan
+>         <bo@j-cube.jp>
+
 
 ## Brief
 
@@ -13,7 +15,10 @@ Another interesting application of `JFA` is the problem of 2D/3D level set reini
 
 Here a couple of screenshot varying the n regions:
 
-n = 16
+```n = 16```
 
-n = 64
+  https://github.com/j-cube/jfa-cvt/raw/master/img/16.png
 
+```n = 64```
+
+  https://github.com/j-cube/jfa-cvt/raw/master/img/64.png
